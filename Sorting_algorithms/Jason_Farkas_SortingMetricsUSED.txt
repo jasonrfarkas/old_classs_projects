@@ -1,0 +1,85 @@
+The first ten numbers generated are: 7468, 4231, 7584, 3039, 3826, 5536, 2085, 5424, 6317, 4078, 
+Random Numbers generated in first set are: 7468, 4231, 7584, 3039, 3826, 5536, 2085, 5424, 6317, 4078, 9755, 3596, 6150, 7567, 3675, 5295, 9982, 1620, 7137, 2363, 2527, 5761, 7895, 4460, 6417, 9364, 8322, 8093, 7686, 4770, 5976, 7540, 4675, 2925, 685, 4776, 4027, 8434, 5289, 8835, 6329, 1934, 4391, 6994, 5417, 6385, 988, 9833, 5604, 3019, 
+The last five of the first set are: 6385, 988, 9833, 5604, 3019, 
+The last five of the second set are: 9961, 8328, 4795, 5764, 7296, 
+The last five of the third set are: 873, 4146, 7333, 1918, 6064, 
+The last five of the fourth set are: 8147, 9378, 7686, 2916, 3227, 
+The last five of the fifth set are: 5825, 4360, 9088, 7674, 6280, 
+Sorted first set is: 685, 988, 1620, 1934, 2085, 2363, 2527, 2925, 3019, 3039, 3596, 3675, 3826, 4027, 4078, 4231, 4391, 4460, 4675, 4770, 4776, 5289, 5295, 5417, 5424, 5536, 5604, 5761, 5976, 6150, 6317, 6329, 6385, 6417, 6994, 7137, 7468, 7540, 7567, 7584, 7686, 7895, 8093, 8322, 8434, 8835, 9364, 9755, 9833, 9982, 
+The last five of the first set are: 8835, 9364, 9755, 9833, 9982, 
+The last five of the second set are: 9938, 9946, 9961, 9964, 9967, 
+The last five of the third set are: 9967, 9979, 9993, 9996, 9998, 
+The last five of the fourth set are: 9987, 9988, 9989, 9990, 9993, 
+The last five of the fifth set are: 9988, 9988, 9989, 9990, 9993, 
+Set of size50 Sorted via IterativeQuickSort . 251 comparisons counted, and 110 exchanges counted. Work total calculated at 581.
+Set of size250 Sorted via IterativeQuickSort . 1903 comparisons counted, and 1116 exchanges counted. Work total calculated at 5251.
+Set of size1000 Sorted via IterativeQuickSort . 10386 comparisons counted, and 4924 exchanges counted. Work total calculated at 25158.
+Set of size2500 Sorted via IterativeQuickSort . 30489 comparisons counted, and 15780 exchanges counted. Work total calculated at 77829.
+Set of size5000 Sorted via IterativeQuickSort . 68348 comparisons counted, and 35710 exchanges counted. Work total calculated at 175478.
+
+
+ Sorting 
+
+
+Sorted first set is: 685, 988, 1620, 1934, 2085, 2363, 2527, 2925, 3019, 3039, 3596, 3675, 3826, 4027, 4078, 4231, 4391, 4460, 4675, 4770, 4776, 5289, 5295, 5417, 5424, 5536, 5604, 5761, 5976, 6150, 6317, 6329, 6385, 6417, 6994, 7137, 7468, 7540, 7567, 7584, 7686, 7895, 8093, 8322, 8434, 8835, 9364, 9755, 9833, 9982, 
+The last five of the first set are: 8835, 9364, 9755, 9833, 9982, 
+The last five of the second set are: 9938, 9946, 9961, 9964, 9967, 
+The last five of the third set are: 9967, 9979, 9993, 9996, 9998, 
+The last five of the fourth set are: 9987, 9988, 9989, 9990, 9993, 
+The last five of the fifth set are: 9988, 9988, 9989, 9990, 9993, 
+Set of size50 Sorted via Selection Sort. 1274 comparisons counted, and 48 exchanges counted. Work total calculated at 1418.
+Set of size250 Sorted via Selection Sort. 31374 comparisons counted, and 247 exchanges counted. Work total calculated at 32115.
+Set of size1000 Sorted via Selection Sort. 500499 comparisons counted, and 992 exchanges counted. Work total calculated at 503475.
+Set of size2500 Sorted via Selection Sort. 3126249 comparisons counted, and 2488 exchanges counted. Work total calculated at 3133713.
+Set of size5000 Sorted via Selection Sort. 12502499 comparisons counted, and 4993 exchanges counted. Work total calculated at 12517478.
+
+
+ Sorting 
+
+
+Sorted first set is: 685, 988, 1620, 1934, 2085, 2363, 2527, 2925, 3019, 3039, 3596, 3675, 3826, 4027, 4078, 4231, 4391, 4460, 4675, 4770, 4776, 5289, 5295, 5417, 5424, 5536, 5604, 5761, 5976, 6150, 6317, 6329, 6385, 6417, 6994, 7137, 7468, 7540, 7567, 7584, 7686, 7895, 8093, 8322, 8434, 8835, 9364, 9755, 9833, 9982, 
+The last five of the first set are: 8835, 9364, 9755, 9833, 9982, 
+The last five of the second set are: 9938, 9946, 9961, 9964, 9967, 
+The last five of the third set are: 9967, 9979, 9993, 9996, 9998, 
+The last five of the fourth set are: 9987, 9988, 9989, 9990, 9993, 
+The last five of the fifth set are: 9988, 9988, 9989, 9990, 9993, 
+Set of size50 Sorted via Insertion Sort. 604 comparisons counted, and 653 exchanges counted. Work total calculated at 2563.
+Set of size250 Sorted via Insertion Sort. 15259 comparisons counted, and 15508 exchanges counted. Work total calculated at 61783.
+Set of size1000 Sorted via Insertion Sort. 264232 comparisons counted, and 265231 exchanges counted. Work total calculated at 1059925.
+Set of size2500 Sorted via Insertion Sort. 1571429 comparisons counted, and 1573928 exchanges counted. Work total calculated at 6293213.
+Set of size5000 Sorted via Insertion Sort. 6237416 comparisons counted, and 6242415 exchanges counted. Work total calculated at 24964661.
+
+
+ Sorting 
+
+
+Sorted first set is: 685, 988, 1620, 1934, 2085, 2363, 2527, 2925, 3019, 3039, 3596, 3675, 3826, 4027, 4078, 4231, 4391, 4460, 4675, 4770, 4776, 5289, 5295, 5417, 5424, 5536, 5604, 5761, 5976, 6150, 6317, 6329, 6385, 6417, 6994, 7137, 7468, 7540, 7567, 7584, 7686, 7895, 8093, 8322, 8434, 8835, 9364, 9755, 9833, 9982, 
+The last five of the first set are: 8835, 9364, 9755, 9833, 9982, 
+The last five of the second set are: 9938, 9946, 9961, 9964, 9967, 
+The last five of the third set are: 9967, 9979, 9993, 9996, 9998, 
+The last five of the fourth set are: 9987, 9988, 9989, 9990, 9993, 
+The last five of the fifth set are: 9988, 9988, 9989, 9990, 9993, 
+Set of size50 Sorted via Recursive QuickSort. 306 comparisons counted, and 74 exchanges counted. Work total calculated at 528.
+Set of size250 Sorted via Recursive QuickSort. 2440 comparisons counted, and 497 exchanges counted. Work total calculated at 3931.
+Set of size1000 Sorted via Recursive QuickSort. 13773 comparisons counted, and 2398 exchanges counted. Work total calculated at 20967.
+Set of size2500 Sorted via Recursive QuickSort. 37971 comparisons counted, and 6877 exchanges counted. Work total calculated at 58602.
+Set of size5000 Sorted via Recursive QuickSort. 87874 comparisons counted, and 15050 exchanges counted. Work total calculated at 133024.
+
+
+ Sorting 
+
+
+Sorted first set is: 685, 988, 1620, 1934, 2085, 2363, 2527, 2925, 3019, 3039, 3596, 3675, 3826, 4027, 4078, 4231, 4391, 4460, 4675, 4770, 4776, 5289, 5295, 5417, 5424, 5536, 5604, 5761, 5976, 6150, 6317, 6329, 6385, 6417, 6994, 7137, 7468, 7540, 7567, 7584, 7686, 7895, 8093, 8322, 8434, 8835, 9364, 9755, 9833, 9982, 
+The last five of the first set are: 8835, 9364, 9755, 9833, 9982, 
+The last five of the second set are: 9938, 9946, 9961, 9964, 9967, 
+The last five of the third set are: 9967, 9979, 9993, 9996, 9998, 
+The last five of the fourth set are: 9987, 9988, 9989, 9990, 9993, 
+The last five of the fifth set are: 9988, 9988, 9989, 9990, 9993, 
+Set of size50 Sorted via Heap Sort. 630 comparisons counted, and 290 exchanges counted. Work total calculated at 1500.
+Set of size250 Sorted via Heap Sort. 4300 comparisons counted, and 2025 exchanges counted. Work total calculated at 10375.
+Set of size1000 Sorted via Heap Sort. 21136 comparisons counted, and 10068 exchanges counted. Work total calculated at 51340.
+Set of size2500 Sorted via Heap Sort. 59486 comparisons counted, and 28493 exchanges counted. Work total calculated at 144965.
+Set of size5000 Sorted via Heap Sort. 129176 comparisons counted, and 62088 exchanges counted. Work total calculated at 315440.
+
+
+
