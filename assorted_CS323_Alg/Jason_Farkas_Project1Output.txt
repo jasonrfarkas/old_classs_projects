@@ -1,0 +1,28 @@
+Inputed Text: m (a (b c) (d (e (f g h) i) j) k) n
+Group 0 =  m (a (b c) (d (e (f g h) i) j) k) n 
+Group 1 = (a (b c) (d (e (f g h) i) j) k)
+Group 2 = (b c)
+Group 3 = (d (e (f g h) i) j)
+Group 4 = (e (f g h) i)
+Group 5 = (f g h)
+Inputed Text: m (a (b c) (d (e (f g h) i) j) k) n
+Group 0 =  m (a (b c) (d (e (f g h) i) j) k) n 
+Group 1 = (a (b c) (d (e (f g h) i) j) k)
+Group 2 = (b c)
+Group 3 = (d (e (f g h) i) j)
+Group 4 = (e (f g h) i)
+Group 5 = (f g h)
+Inputed Text: m (a (b c) (d (e (f g h) i) j) k) n
+Group 0 =  m (a (b c) (d (e (f g h) i) j) k) n 
+Group 1 = (a (b c) (d (e (f g h) i) j) k)
+Group 2 = (b c)
+Group 3 = (d (e (f g h) i) j)
+Group 4 = (e (f g h) i)
+Group 5 = (f g h)
+Inputed Text: m (a (b c) (d (e (f g h) i) j) k) n
+Group 0 =  m (a (b c) (d (e (f g h) i) j) k) n 
+Group 1 = (a (b c) (d (e (f g h) i) j) k)
+Group 2 = (b c)
+Group 3 = (d (e (f g h) i) j)
+Group 4 = (e (f g h) i)
+Group 5 = (f g h)
